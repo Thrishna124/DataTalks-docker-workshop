@@ -1,0 +1,5 @@
+numpy<2
+pandas<3
+sqlalchemy
+psycopg2-binary
+pyarrow==14.0.2
